@@ -8,8 +8,7 @@ This project aims to convert YouTube videos into text files using various Python
 
 ## Setup
 
-To get started, you need to install the required dependencies. Open your terminal or command prompt and run the following commands:(https://pip.pypa.io/en/stable/) to install foobar.
-
+To get started, you need to install the required dependencies. Open your terminal or command prompt and run the following commands:
 ```bash
 pip install pytube
 pip install moviepy
@@ -18,7 +17,7 @@ pip install git+https://github.com/openai/whisper.git
 ```
 
 ## Usage
-Once you have installed the necessary libraries, you can run the ytvideo-to-text.py script to convert a YouTube video to a text file. Make sure you have the URL or ID of the YouTube video you want to convert.
+Once you have installed the necessary libraries, you can run the ytvideo-to-text.py script to convert a YouTube video to a text file. Make sure you have the URL of the YouTube video you want to convert.
 ```python
 python ytvideo-to-text.py
 ```
