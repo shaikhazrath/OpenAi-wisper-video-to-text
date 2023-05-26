@@ -1,4 +1,4 @@
-## Using Openai Whisper
+## Using OpenAi Whisper
 
 
 # YouTube Video to Text Converter
