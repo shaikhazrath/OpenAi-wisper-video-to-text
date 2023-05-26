@@ -35,7 +35,7 @@ def extract_audio(video_url, output_path):
         os.remove(audio_file)
 
 # Example usage
-video_url = "https://www.youtube.com/watch?v=DRpo9_x27zM"
+video_url = input("enter the youtube video-url : ")
 output_path = "./"
 
 extract_audio(video_url, output_path)
